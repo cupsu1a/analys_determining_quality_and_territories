@@ -5,70 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f721d1c5-73ad-4764-b77d-7c722d44259b" name="Changes" comment="Add files via upload">
-      <changelist_data name="Viktor" email="131018724+cupsu1a@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/.idea/analys_determining_quality_and_territories.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/040.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/046.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/048.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/050.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/061.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/062.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/078.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/089.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/096.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/101.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/115.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/137.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/148.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/176.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/179.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/183.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/185.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/189.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/201.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/204.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/209.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/227.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/231.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/232.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/244.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/245.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/255.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/262.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/276.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/277.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/determining_quality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/determining_quality.py" beforeDir="false" afterPath="$PROJECT_DIR$/determining_territories.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +101,23 @@
       <option name="presentableId" value="Default" />
       <updated>1731569926843</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731590366934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731590366934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731590453393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731590453393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
