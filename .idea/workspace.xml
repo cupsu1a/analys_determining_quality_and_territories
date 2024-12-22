@@ -5,7 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f721d1c5-73ad-4764-b77d-7c722d44259b" name="Changes" comment="Add files via upload">
-      <change beforePath="$PROJECT_DIR$/determining_quality.py" beforeDir="false" afterPath="$PROJECT_DIR$/determining_territories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/focus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/183.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/224.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/determining_territories.py" beforeDir="false" afterPath="$PROJECT_DIR$/determining_territories.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +105,115 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.determining_territories.executor": "Run",
+    "Python.focus.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.проект1.executor": "Run",
+    "Python.проект2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/vitya/PycharmProjects/analys_pic_/analys_determining_quality_and_territories/data2/Rust (475).jpg",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Python.focus">
+    <configuration name="проект1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="analys_determining_quality_and_territories" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/TelegramDesktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/TelegramDesktop/проект1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="проект2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="analys_determining_quality_and_territories" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/TelegramDesktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/TelegramDesktop/проект2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="determining_territories" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="analys_determining_quality_and_territories" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/determining_territories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="focus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="analys_determining_quality_and_territories" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/focus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="analys_determining_quality_and_territories" />
       <option name="ENV_FILES" value="" />
@@ -84,6 +236,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.focus" />
+        <item itemvalue="Python.determining_territories" />
+        <item itemvalue="Python.проект2" />
+        <item itemvalue="Python.проект1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -117,7 +277,39 @@
       <option name="project" value="LOCAL" />
       <updated>1731590453393</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731590626572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731590626572</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731590682397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731590682397</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731601661926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731601661926</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1731601965824</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731601965824</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
