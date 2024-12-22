@@ -62,7 +62,7 @@ def process_images_in_folder(folder_path, threshold=100):
         focus_measures.append(focus_measure[1])
         # Удаляем изображение после обработки
         os.remove(image_path)
-#        print(f"Изображение '{image_file}' удалено.")
+        # print(f"Изображение '{image_file}' удалено.")
 
     # Вычисляем среднее значение focus_measure
     if focus_measures:

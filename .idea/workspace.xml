@@ -5,66 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f721d1c5-73ad-4764-b77d-7c722d44259b" name="Changes" comment="Add files via upload">
-      <change afterPath="$PROJECT_DIR$/focus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/277.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/determining_territories.py" beforeDir="false" afterPath="$PROJECT_DIR$/determining_territories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/focus.py" beforeDir="false" afterPath="$PROJECT_DIR$/focus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bruh.executor": "Run",
     "Python.determining_territories.executor": "Run",
     "Python.focus.executor": "Run",
     "Python.main.executor": "Run",
@@ -125,7 +69,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.focus">
+  <component name="RunManager" selected="Python.main">
     <configuration name="проект1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="analys_determining_quality_and_territories" />
       <option name="ENV_FILES" value="" />
@@ -162,6 +106,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/TelegramDesktop/проект2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bruh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="analys_determining_quality_and_territories" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bruh.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,6 +206,7 @@
       <list>
         <item itemvalue="Python.focus" />
         <item itemvalue="Python.determining_territories" />
+        <item itemvalue="Python.bruh" />
         <item itemvalue="Python.проект2" />
         <item itemvalue="Python.проект1" />
       </list>
@@ -309,7 +276,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731601965824</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1734901181162</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734901181162</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add files via upload">
+      <option name="closed" value="true" />
+      <created>1734901234764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734901234764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
